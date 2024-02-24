@@ -1,3 +1,4 @@
+![logo](https://github.com/manimore0/manimore0/blob/main/1644080792629.jpg)
 <h1 align="center">Hi 👋, I'm Mani More</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
