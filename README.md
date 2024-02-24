@@ -1,6 +1,6 @@
 ![logo](https://github.com/manimore0/manimore0/blob/main/1644080792629.jpg)
-<h1 align="center">Hi 👋, I'm Mani More</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">Hi, I'm Mani More</h1>
+
 
 <img align="right" alt="coding" width="400" src="https://assets-global.website-files.com/61897bbb80b04406f137091a/62430a051e734d35fa9f3e0b_WLSSmhPWPsTOUHVemfC4VPHDMFRtjCUIbBGwOgt0NR93B_jx08Rj_7MD0K4cqeRlT4eiFJD1S4_FK4QrQzXDcsw-WHR5epdjl3oWfkTekDpjNlWYFNJ-yaF6K9Rg2ApEZQrwLqcc.gif">
 
